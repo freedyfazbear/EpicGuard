@@ -1,6 +1,8 @@
 # 🛡 EpicGuard [![GitHub stars](https://img.shields.io/github/stars/xxneox/EpicGuard)](https://github.com/xxneox/EpicGuard/stargazers) [![GitHub forks](https://img.shields.io/github/forks/xxneox/EpicGuard)](https://github.com/xxneox/EpicGuard/network) [![GitHub issues](https://img.shields.io/github/issues/xxneox/EpicGuard)](https://github.com/xxneox/EpicGuard/issues) [![GitHub license](https://img.shields.io/github/license/xxneox/EpicGuard)](https://github.com/xxneox/EpicGuard/blob/master/LICENSE) [![Java CI](https://github.com/xxneox/EpicGuard/actions/workflows/gradle.yml/badge.svg)](https://github.com/xxneox/EpicGuard/actions/workflows/gradle.yml)
 A simple AntiBot plugin for newest Minecraft versions.
 
+Support on the discord: https://discord.gg/8D7VzMzfe5
+
 ## ✅ Supported platforms / Latest release requirements
 * [Paper 1.17+](https://papermc.io/) *(all paper forks are supported)*
 * [Velocity 3.0+](https://velocitypowered.com/)
@@ -36,9 +38,6 @@ On different platforms there are additional aliases available, such as **/guardv
 | /guard analyze <nick/address>                | Displays detailed information about the specified address or nickname. |
 | /guard status                                | Toggles live attack information on actionbar.                          |
 | /guard save                                  | Forces save to the database.                                           |
-
-## ⚠️ Current state of the project
-I (xxneox) am basically the only maintainer of this project. I don't have time to work on it anymore, so it's only getting bugfixes and important changes. Support is only given for important issues. This repository *might* get archived at any time.
 
 ## 🔧 Using EpicGuard API in your project:
 The api is not very advanced, and there is not much you can do with it for now.
